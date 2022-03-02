@@ -65,7 +65,7 @@ main {
     font-size: 1rem;
     background-color: hsl(0, 0%, 95%); 
     border: 2px solid transparent;
-    
+
     margin-top: 4rem;
 }
 
@@ -151,5 +151,5 @@ main {
 }
 
 /********/
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 11px; text-align: center; color: black;}
 .attribution a { color: hsl(228, 45%, 44%); }
