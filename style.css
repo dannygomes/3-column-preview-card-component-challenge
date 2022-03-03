@@ -8,6 +8,7 @@ body {
     align-items: center;
     min-height: 100vh;
     color: hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 95%);
 }
 
 main {
