@@ -8,13 +8,13 @@ body {
     align-items: center;
     min-height: 100vh;
     color: hsl(0, 0%, 95%);
-    background-color: orangered;
+    background-color: hsl(0, 1%, 76%);
 }
 
 main {
     width: 55vw;
     display: flex;
-    border-radius: 1rem;
+    border-radius: .7rem;
     overflow: hidden;
 }
 
