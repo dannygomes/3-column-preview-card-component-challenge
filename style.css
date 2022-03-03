@@ -12,10 +12,11 @@ body {
 }
 
 main {
-    width: 60vw;
+    width: 65vw;
     display: flex;
     border-radius: .5rem;
     overflow: hidden;
+    margin-top: 1.5rem;
 }
 
 #sedan {
@@ -44,7 +45,7 @@ main {
 
 .card {
     width: 33.3%;
-    padding: 2.5rem;
+    padding: 3.3rem;
 }
 
 .text-button-container {
@@ -74,8 +75,7 @@ main {
     border: 2px solid transparent;
     width: 9rem;
 
-    margin-top: 6rem;
-    margin-bottom: 1rem;
+    margin-top: 8rem;
 }
 
 .button:hover {
