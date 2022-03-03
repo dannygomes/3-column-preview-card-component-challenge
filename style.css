@@ -68,7 +68,7 @@ main {
 .button {
     padding: .65rem 1.7rem;
     border-radius: 2rem;
-    font-size: 1rem;
+    font-size: .93rem;
     background-color: hsl(0, 0%, 95%); 
     border: 2px solid transparent;
     width: 9rem;
