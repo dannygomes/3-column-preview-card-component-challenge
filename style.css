@@ -14,7 +14,7 @@ body {
 main {
     width: 60vw;
     display: flex;
-    border-radius: .7rem;
+    border-radius: .5rem;
     overflow: hidden;
 }
 
@@ -63,6 +63,7 @@ main {
     display: inline-block;
     margin: 0;
     height: 5rem;
+    line-height: 1.5rem;
 }
 
 .button {
@@ -74,6 +75,7 @@ main {
     width: 9rem;
 
     margin-top: 6rem;
+    margin-bottom: 1rem;
 }
 
 .button:hover {
